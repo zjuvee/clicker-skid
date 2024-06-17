@@ -4,12 +4,12 @@ just and autoclicker for minecraft, with good randomization, this clicker can by
 
 best configs, 17/06/2024
 
-MMC = 8.0 CPS - 16.0 CPS
-ASTRAL = 10.0 CPS - 18.0 CPS
-HYPIXEL = 8.0 CPS - 16.0 CPS
-VULCAN AC = 7.0 CPS - 14.0 CPS (has good clicker check)
-VERUS = 10.0 CPS - 18.0 CPS
-POLAR = 8.0 CPS - 16.0 CPS (universocraft anti mitigate)
+- MMC = 8.0 CPS - 16.0 CPS
+- ASTRAL = 10.0 CPS - 18.0 CPS
+- HYPIXEL = 8.0 CPS - 16.0 CPS
+- VULCAN AC = 7.0 CPS - 14.0 CPS (has good clicker check)
+- VERUS = 10.0 CPS - 18.0 CPS
+- POLAR = 8.0 CPS - 16.0 CPS (universocraft anti mitigate)
 
 for randomization to work well you have to put many cps together, example: 8.0 - 16.0 cps, would be between 10-15 stable CPS with good randomization
 
@@ -19,4 +19,4 @@ WARNING: I AM NOT RESPONSIBLE FOR ANY PROBLEM OF THE PROGRAM, OR MALIGNANT COPIE
 
 # Download
 
-inside the "out" folder in the repository or click here
+inside the "out" folder in the repository or **click here** `https://github.com/zjuvee/clicker-skid/raw/main/clicker/out/release/x64/clicker.exe`
