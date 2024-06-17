@@ -24,7 +24,7 @@ WARNING: I AM NOT RESPONSIBLE FOR ANY PROBLEM OF THE PROGRAM, OR MALIGNANT COPIE
 - Jitter movement
 - Clicksounds (maybe dont work)
 
-
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://raw.githubusercontent.com/zjuvee/clicker-skid/main/Screenshot_3.png?token=GHSAT0AAAAAACR4P3R4RD5OK5FNNSR6UMH2ZS2A5HA">
 
 # Download
 
