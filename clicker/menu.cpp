@@ -38,7 +38,7 @@ void c_menu::on_paint()
 	if (!vars::b_is_running)
 		std::exit(0);
 
-	if (ImGui::Begin("                                                    clicker skidded", &vars::b_is_running, ImGuiWindowFlags_NoResize | ImGuiWindowFlags_NoCollapse | ImGuiWindowFlags_NoMove))
+	if (ImGui::Begin("                                                     exhaust clicker", &vars::b_is_running, ImGuiWindowFlags_NoResize | ImGuiWindowFlags_NoCollapse | ImGuiWindowFlags_NoMove))
 	{
 		if (ImGui::IsMouseClicked(ImGuiMouseButton_Left))
 			get_mouse_offset(x, y, ctx::hWnd);
