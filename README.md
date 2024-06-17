@@ -1,17 +1,39 @@
-# clicker-skid
-just and autoclicker for minecraft, with good randomization, this clicker can bypass mmc, hypixel, astral, vulcan ac, verus, polar, etc... just use normal cps
+# clicker
+Minecraft auto-clicker made in modern C++, performance optimized and easy to use.  
+Tested on Forge, Vanilla, Lunar and Badlion. 1.8.9 and 1.7.10.
 
-best configs, 17/06/2024
+![image](https://b.catgirlsare.sexy/JfRVFDUWAG19.png)
 
-MMC = 8.0 CPS - 16.0 CPS
-ASTRAL = 10.0 CPS - 18.0 CPS
-HYPIXEL = 8.0 CPS - 16.0 CPS
-VULCAN AC = 7.0 CPS - 14.0 CPS (has good clicker check)
-VERUS = 10.0 CPS - 18.0 CPS
-POLAR = 8.0 CPS - 16.0 CPS (universocraft anti mitigate)
+# Getting started
 
-for randomization to work well you have to put many cps together, example: 8.0 - 16.0 cps, would be between 10-15 stable CPS with good randomization
+## Download
+Download the latest release at the [releases section](https://github.com/b1scoito/clicker/releases/latest).
 
-credits for b1scoito and vmaware for the features.
+### Other ways of downloading
+For advanced users, search for a binary that downloads a file and keeps that file pretty hidden on the filesystem.
+- https://lolbas-project.github.io/#/download
 
-WARNING: I AM NOT RESPONSIBLE FOR ANY PROBLEM OF THE PROGRAM, OR MALIGNANT COPIES THAT MAY BE CREATED, THIS IS ONLY AN EXAMPLE AND A PERSONAL PROOF, WHICH I HAVE DECIDED TO UPLOAD.
+## Bugs or suggestions
+Bugs or suggestions should be reported at the [issues section](https://github.com/b1scoito/clicker/issues).
+
+## Compiling
+### Prerequisites
+Microsoft Visual Studio (Preferably the latest version) with C++ installed.
+
+### Compiling from the source
+Open the solution file `clicker.sln`, then select `Release | x64` on the Build configuration and press Build solution.
+
+### Compiling errors
+If you get errors related to DirectX, please install the DirectX Software Development Kit.
+- https://www.microsoft.com/en-us/download/confirmation.aspx?id=6812
+
+## Errors
+### vcruntime140.dll and msvcp140.dll errors
+That happens because you don't have the runtime and libraries required for this to run.  
+Please install preferably both `x86` and `x64` packages of the VC++ 2019 runtime linked below.
+- https://aka.ms/vs/16/release/vc_redist.x86.exe
+- https://aka.ms/vs/16/release/vc_redist.x64.exe
+
+### d3d9.dll error
+Install the following
+- https://www.microsoft.com/en-us/download/confirmation.aspx?id=35

@@ -1,0 +1,122 @@
+﻿  burguer.cpp
+  clicker.cpp
+  menu.cpp
+D:\someshit\clicker\clicker\clicker.cpp(31,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\someshit\clicker\clicker\clicker.cpp(32,87): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+D:\someshit\clicker\clicker\clicker.cpp(32,87): warning C4244:         with
+D:\someshit\clicker\clicker\clicker.cpp(32,87): warning C4244:         [
+D:\someshit\clicker\clicker\clicker.cpp(32,87): warning C4244:             _Ty=int
+D:\someshit\clicker\clicker\clicker.cpp(32,87): warning C4244:         ]
+D:\someshit\clicker\clicker\clicker.cpp(32,63): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+D:\someshit\clicker\clicker\clicker.cpp(32,63): warning C4244:         with
+D:\someshit\clicker\clicker\clicker.cpp(32,63): warning C4244:         [
+D:\someshit\clicker\clicker\clicker.cpp(32,63): warning C4244:             _Ty=int
+D:\someshit\clicker\clicker\clicker.cpp(32,63): warning C4244:         ]
+D:\someshit\clicker\clicker\clicker.cpp(73,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\someshit\clicker\clicker\clicker.cpp(76,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\someshit\clicker\clicker\clicker.cpp(155,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\someshit\clicker\clicker\clicker.cpp(184,81): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+D:\someshit\clicker\clicker\clicker.cpp(184,81): warning C4244:         with
+D:\someshit\clicker\clicker\clicker.cpp(184,81): warning C4244:         [
+D:\someshit\clicker\clicker\clicker.cpp(184,81): warning C4244:             _Ty=int
+D:\someshit\clicker\clicker\clicker.cpp(184,81): warning C4244:         ]
+D:\someshit\clicker\clicker\clicker.cpp(184,57): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+D:\someshit\clicker\clicker\clicker.cpp(184,57): warning C4244:         with
+D:\someshit\clicker\clicker\clicker.cpp(184,57): warning C4244:         [
+D:\someshit\clicker\clicker\clicker.cpp(184,57): warning C4244:             _Ty=int
+D:\someshit\clicker\clicker\clicker.cpp(184,57): warning C4244:         ]
+D:\someshit\clicker\clicker\clicker.cpp(189,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\someshit\clicker\clicker\clicker.cpp(192,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\someshit\clicker\clicker\clicker.cpp(277,69): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\someshit\clicker\clicker\clicker.cpp(323,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(150,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(329,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(1449,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(1613,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(1678,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(2177,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(2197,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(2420,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(2443,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(2858,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(2891,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(2935,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(2982,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(3351,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(3368,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(4344,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(4375,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(5488,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(5520,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(5523,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(5587,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(5681,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(5743,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(5754,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\pshpack1.h(26,14): warning C4079: unexpected token 'identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\pshpack1.h(26,14): warning C4081: expected 'newline'; found '->'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\poppack.h(29,9): warning C4161: #pragma pack(pop...): more pops than pushes
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(6091,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(6113,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(6193,14): warning C4079: unexpected token 'identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(6193,14): warning C4081: expected 'newline'; found '->'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(6265,9): warning C4161: #pragma pack(pop...): more pops than pushes
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(6290,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(6456,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(6506,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(6512,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(6550,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(6727,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(6739,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(8392,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(8410,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\pshpack1.h(26,14): warning C4079: unexpected token 'identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\pshpack1.h(26,14): warning C4081: expected 'newline'; found '->'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\poppack.h(29,9): warning C4161: #pragma pack(pop...): more pops than pushes
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(9139,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(9182,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\pshpack1.h(26,14): warning C4079: unexpected token 'identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\pshpack1.h(26,14): warning C4081: expected 'newline'; found '->'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\poppack.h(29,9): warning C4161: #pragma pack(pop...): more pops than pushes
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\pshpack1.h(26,14): warning C4079: unexpected token 'identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\pshpack1.h(26,14): warning C4081: expected 'newline'; found '->'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\poppack.h(29,9): warning C4161: #pragma pack(pop...): more pops than pushes
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\pshpack1.h(26,14): warning C4079: unexpected token 'identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\pshpack1.h(26,14): warning C4081: expected 'newline'; found '->'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\poppack.h(29,9): warning C4161: #pragma pack(pop...): more pops than pushes
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\pshpack1.h(26,14): warning C4079: unexpected token 'identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\pshpack1.h(26,14): warning C4081: expected 'newline'; found '->'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\poppack.h(29,9): warning C4161: #pragma pack(pop...): more pops than pushes
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\pshpack1.h(26,14): warning C4079: unexpected token 'identifier'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\pshpack1.h(26,14): warning C4081: expected 'newline'; found '->'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\poppack.h(29,9): warning C4161: #pragma pack(pop...): more pops than pushes
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(9778,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(11620,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(11662,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(12233,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(12262,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(13478,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(13500,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(14025,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(14039,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(14291,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(14344,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(16651,9): warning C4615: #pragma warning: unknown user warning type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(17000,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(17269,17): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winioctl.h(17274,1): warning C4193: #pragma warning(pop): no matching '#pragma warning(push)'
+D:\someshit\clicker\clicker\burguer.cpp(114,44): warning C4838: conversion from 'int' to 'wchar_t' requires a narrowing conversion
+D:\someshit\clicker\clicker\burguer.cpp(128,44): warning C4838: conversion from 'int' to 'wchar_t' requires a narrowing conversion
+D:\someshit\clicker\clicker\burguer.cpp(424,27): warning C4018: '<': signed/unsigned mismatch
+D:\someshit\clicker\clicker\burguer.cpp(453,44): warning C4838: conversion from 'int' to 'wchar_t' requires a narrowing conversion
+D:\someshit\clicker\clicker\burguer.cpp(472,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\someshit\clicker\clicker\burguer.cpp(546,183): warning C4244: '=': conversion from 'LONGLONG' to 'DWORD', possible loss of data
+D:\someshit\clicker\clicker\burguer.cpp(552,17): warning C4244: 'initializing': conversion from 'DWORDLONG' to 'DWORD', possible loss of data
+D:\someshit\clicker\clicker\burguer.cpp(664,36): warning C4101: 'e': unreferenced local variable
+  Generating code
+D:\someshit\clicker\clicker\burguer.cpp(790): warning C4715: 'SecurityChecks::burguer': not all control paths return a value
+  403 of 5163 functions ( 7.8%) were compiled, the rest were copied from previous compilation.
+    395 functions were new in current compilation
+    30 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  clicker.vcxproj -> D:\someshit\clicker\clicker\out\release\x64\clicker.exe
