@@ -36,3 +36,8 @@ or just compile it
  8. Build it!
 
 for any issue, contact me, discord tag: whenyourestrange.
+
+# TODO
+
+- more clicker modes (butterfly, blatant, recorder, drag click)
+- self destruct
