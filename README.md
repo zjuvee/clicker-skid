@@ -20,4 +20,19 @@ WARNING: I AM NOT RESPONSIBLE FOR ANY PROBLEM OF THE PROGRAM, OR MALIGNANT COPIE
 # Download
 
 inside the "out" folder in the repository or 
-- **click here** `https://github.com/zjuvee/clicker-skid/raw/main/clicker/out/release/x64/clicker.exe`
+- https://github.com/zjuvee/clicker-skid/raw/main/clicker/out/release/x64/clicker.exe
+
+or just compile it
+
+# Setup
+
+ 1. Download source code
+ 2. Extract it
+ 3. Open the solution
+ 4. Go to project properties
+ 5. `Configuration properties -> General -> C++ Language Standard` change this to C++ 20 and done
+ 6. `Configuration properties -> VC++ Directories -> Include Directories -> add \clicker\clicker\utils and \clicker\clicker`
+ 7. Finally put it in `release` and `x64`
+ 8. Build it!
+
+for any issue, contact me, discord tag: whenyourestrange.
