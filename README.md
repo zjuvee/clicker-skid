@@ -19,4 +19,5 @@ WARNING: I AM NOT RESPONSIBLE FOR ANY PROBLEM OF THE PROGRAM, OR MALIGNANT COPIE
 
 # Download
 
-inside the "out" folder in the repository or **click here** `https://github.com/zjuvee/clicker-skid/raw/main/clicker/out/release/x64/clicker.exe`
+inside the "out" folder in the repository or 
+- **click here** `https://github.com/zjuvee/clicker-skid/raw/main/clicker/out/release/x64/clicker.exe`
