@@ -16,3 +16,7 @@ for randomization to work well you have to put many cps together, example: 8.0 -
 credits for b1scoito and vmaware for the features.
 
 WARNING: I AM NOT RESPONSIBLE FOR ANY PROBLEM OF THE PROGRAM, OR MALIGNANT COPIES THAT MAY BE CREATED, THIS IS ONLY AN EXAMPLE AND A PERSONAL PROOF, WHICH I HAVE DECIDED TO UPLOAD.
+
+# Download
+
+inside the "out" folder in the repository or click here
